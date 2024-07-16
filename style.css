@@ -90,3 +90,13 @@ text-align: center;
 button {
     color: rgb(206, 157, 65);
 }
+
+.blocoproduto button {
+    padding: 10px 20px; 
+    background-color: rgb(206, 157, 65); 
+    color: black; 
+    border: none; 
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: bold;
+}
